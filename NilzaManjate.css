@@ -1,0 +1,101 @@
+/* Estilo geral da página */
+body {
+    font-family: Arial, sans-serif;
+    margin: 40px;
+    background-color: #ffffff;
+    color: #333333;
+}
+
+/* Título principal */
+h1 {
+    color: #110630f6;
+    text-align: center;
+}
+
+/* Subtítulo */
+h2 {
+    color: #090a33;
+}
+
+/* Linha castanha */
+.linha-castanha {
+    border: none;
+    height: 4px;
+    background-color: brown;
+    margin: 20px 0;
+}
+
+/* Lista */
+ol li {
+    color: rgb(240, 15, 15);
+    margin-bottom: 8px;
+}
+
+/* Link */
+a {
+    color: blue;
+    text-decoration: underline;
+}
+
+/* Título Imagem */
+.titulo-imagem {
+    color: green;
+    font-size: 28px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+/* Imagem com transparência */
+.imagem {
+    display:block;
+    margin: 20px auto;
+    width: 350px;
+    opacity: 0.15; /* 15% de transparência */
+}
+
+/* Tabela */
+table {
+     width: 100%;
+    margin: 20px auto;
+    border-collapse: collapse;
+    background-color: #ffffff;
+    border-radius: 8px;
+}
+
+/* Título2 */
+.titulo-cor2 {
+    color: rgb(240, 99, 5);
+    font-size: 28px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+/* Título2 */
+.titulo-cor3 {
+    color: rgb(204, 7, 7);
+    font-size: 20px;
+    text-align: left;
+    margin-top: 20px;}
+
+
+/* Cabeçalho da tabela */
+th {
+    background-color: #0eaa42b6; /* verde claro */
+    font-weight: bold;
+    padding: 10px;
+    border: 1px solid #000;
+}
+
+/* Células */
+td {
+    padding: 10px;
+    border: 1px solid #000;
+}
+
+/* Parágrafos final*/
+ .final {
+    margin-top: 30px;
+    font-style: italic;
+    text-align: justify;
+}
+
