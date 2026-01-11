@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <title>Exercício Prático HTML e CSS</title>
+    <link rel="stylesheet" href="estilo.css">
+</head>
+<body>
+
+    <h1>Exercício Prático – HTML e CSS</h1>
+
+    <p>
+        Conversão de Documento Word para HTML e CSS
+    </p>
+
+    <p class="linha-castanha">
+        Este documento foi elaborado com o objectivo de servir como base para um exercício prático.
+        O aluno deverá converter todo o conteúdo aqui apresentado para uma página HTML,
+        aplicando estilos CSS externos de forma correcta e organizada.
+    </p>
+
+    <h2>Elementos a considerar no exercício</h2>
+
+    <ul>
+        <li>Estrutura básica de um documento HTML</li>
+        <li>Utilização correcta de títulos e parágrafos</li>
+        <li>Aplicação de estilos CSS</li>
+        <li>Organização do conteúdo</li>
+    </ul>
+
+    <p>
+        O documento HTML final deverá conter uma hiperligação funcional para um site à escolha do aluno:
+        <a href="https://www.w3schools.com" target="_blank">W3Schools</a>
+    </p>
+
+    <h2>Imagem</h2>
+    <img src="imagem.jpg" alt="Imagem ilustrativa" class="imagem">
+
+    <h2>Tabela de Competências Técnicas</h2>
+
+    <table>
+        <tr>
+            <th>Competência</th>
+            <th>Descrição</th>
+            <th>Nível</th>
+        </tr>
+        <tr>
+            <td>HTML</td>
+            <td>Estruturação de páginas web</td>
+            <td>Intermédio</td>
+        </tr>
+        <tr>
+            <td>CSS</td>
+            <td>Estilização e layout responsivo</td>
+            <td>Intermédio</td>
+        </tr>
+        <tr>
+            <td>JavaScript</td>
+            <td>Interacção e dinamismo</td>
+            <td>Básico</td>
+        </tr>
+    </table>
+
+    <h2>Boas Práticas</h2>
+
+    <ul>
+        <li>Use nomes de ficheiros claros e em minúsculas</li>
+        <li>Comente o código quando necessário</li>
+    </ul>
+
+</body>
+</html>
